@@ -1,4 +1,4 @@
-# 💰 FinRL: A Financial Advisor using (DQN)
+# 💰 FqRL: A Financial Advisor using (DQN)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white">
@@ -7,14 +7,14 @@
   <img src="https://img.shields.io/badge/Status-Research%20Project-success">
 </p>
 
-> **FinRL** is an intelligent Reinforcement Learning (RL) agent that learns how to manage personal finances — deciding *when to spend, save, or invest* — by interacting with a simulated financial environment.  
+> **FqRL** is an intelligent Reinforcement Learning (RL) agent that learns how to manage personal finances — deciding *when to spend, save, or invest* — by interacting with a simulated financial environment.  
 > Using **Deep Q-Learning (DQN)**, the model discovers balanced strategies that maximize long-term wealth while minimizing stress and maintaining satisfaction.
 
 ---
 
 ## 🧠 Project Overview
 
-Traditional budgeting apps rely on static rules or manual user input. FinRL takes a step further — it **learns optimal financial behavior dynamically** through trial and feedback.
+Traditional budgeting apps rely on static rules or manual user input. FqRL takes a step further — it **learns optimal financial behavior dynamically** through trial and feedback.
 
 At every time step (month), the agent observes:
 - 💵 **Balance, Income, Expenses**
