@@ -1,4 +1,4 @@
-# 💰 FinRL: An Adaptive Financial Advisor using Reinforcement Learning (DQN)
+# 💰 FinRL: A Financial Advisor using (DQN)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white">
